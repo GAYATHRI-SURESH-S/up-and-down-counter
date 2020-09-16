@@ -1,0 +1,68 @@
+.button1{
+    background-color: burlywood; 
+    color:black;
+    border-radius: 50%;
+    font-size: 40px;
+    border-color: darkred;
+    margin-left: 500px;
+    margin-top: 130px;
+    margin-bottom: 100px;
+    cursor: pointer;
+    width: 75px;
+    height: 75px;
+    padding-bottom: 2px;
+}
+.start{
+    background-color: whitesmoke;
+    color: red;
+    font-size: medium;
+    font-style: initial;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-top: 75px;
+    fill-opacity: inherit;
+    border-radius: 20px 20px;
+    height: 80px;
+    width: 215x;
+    border-color: maroon;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+.button2{
+    background-color: burlywood;
+    color: black;
+    border-radius: 50%;
+    font-size: 40px;
+    padding-bottom: 3px;
+    border-color: darkred;
+    margin-left: 100px;
+    margin-top: 130px;
+    cursor: pointer;
+    width: 75px;
+    height: 75px;
+    margin-bottom: 100px;
+}
+
+.button1:hover{
+    color:white;
+    background-color: lightcoral;
+}
+.button2:hover{
+    color:white;
+    background-color: black;
+    background-color: lightcoral;
+}
+.start:hover{
+    background-color: palevioletred;
+    color: white;
+}
+#number{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+
+body{
+   
+   background-image: linear-gradient(to right,#ababab,white);
+}
